@@ -1,0 +1,41 @@
+Cateogry,Equipment,"Diesel Consumption, in Litres",,,,,"Working Hours, in Hrs",,,
+,,Apr-24,May-24,Jun-24,Jul-24,,Apr-24,May-24,Jun-24,Jul-24
+HEMM,"Dumper BEML-1, 50 MT",850,658,791,1150,,30,24,30,42
+Utility Vehicle,Utility Vehicle-1,151,285,201,252,,11,22,16,20
+Utility Vehicle,Utility Vehicle-2,150,244,515,593,,11,18,40,45
+Utility Vehicle,Utility Vehicle-3,405,400,343,372,,30,31,28,29
+Utility Vehicle,Utility Vehicle-4,407,406,408,469,,34,32,32,36
+HEMM,Drill Machine-1,524,1082,789,0,,28,55,40,0
+DG Set,DG 200 KVA,230,315,958,105,,13,17,55,6
+Utility Vehicle,Diesel Bowser-14,30,110,60,30,,5,18,10,5
+HEMM,Excavator -1,6953,5270,6572,7409,,125,90,120,135
+Utility Vehicle,Explosive Van-1,33,25,81,62,,6,5,14,11
+Utility Vehicle,Explosive Van-2,63,116,55,81,,11,20,10,13.5
+Utility Vehicle,Explosive Van-3,95,70,30,126,,16,12,5,21
+HEMM,Forklift,55,30,45,49,,11,6,9,11
+HEMM,"Dumper-1, 25 MT",235,379,556,684,,23.5,38,55,70
+HEMM,Drill Machine-2,316,125,150,250,,15.8,7,8,13
+HEMM,Drill Machine-3,526,628,1965,1134,,26.3,32,99,554
+HEMM,Backhoe loader,1250,1240,1276,1320,,155,158,160,165
+Utility Vehicle,Utility Vehicle-5,95,34,45,75,,8,3,4,7
+Utility Vehicle,Utility Vehicle-6,104,51,23,115,,8.5,4,2,10
+HEMM,Dozer Komatsu,932,975,576,435,,63,65,40,29
+HEMM,"Dumper Komatsu-1, 60 MT",2256,1829,1533,3130,,90,75,60,125
+HEMM,"Dumper Komatsu-2, 60 MT",2265,1810,1613,2584,,90,70,61,100
+HEMM,LOADER 432 ZX,356,2005,2318,2231,,30,170,190,189
+Utility Vehicle,"Mobile Lighting Tower,with 7.5 KVA DG Set",35,58,45,42,,7,12,9,9
+HEMM,Grader,82,65,71,281,,8.5,6.5,8,30
+HEMM,"Excavator-2, PC-210",1227,578,1472,2011,,75,35,92,126
+HEMM,"Excavator-3, PC-210",1717,1774,1733,2140,,114,120,125,140
+Utility Vehicle,Diesel Bowser-2,31,202,60,83,,5,34,10,14
+Utility Vehicle,Water Tanker-1,360,450,390,180,,60,75,65,30
+HEMM,"Dumper-2, 25 MT",715,1100,969,749,,90,140,120,95
+HEMM,"Dumper-3, 25 MT",653,1042,992,732,,85,128,125,92
+HEMM,"Dumper-4, 25 MT",533,1095,736,771,,65,132,92,95
+Utility Vehicle,"Dumper-1, 10 MT",50,20,90,60,,5,2,9,6
+Utility Vehicle,"Dumper-2, 10 MT",60,90,60,60,,6,9,6,6
+Utility Vehicle,Dumper-3 10 MT,110,124,70,90,,11,13,7,9
+HEMM,"Dumper-5, 25 MT",0,0,20,0,,0,0,3,0
+Utility Vehicle,Explosive Van-4,80,75,75,30,,7,6,6,2.5
+Utility Vehicle,Water Tanker-2,220,230,240,160,,39,40,40,27
+Utility Vehicle,Water Tanker-3,200,215,149,100,,35,36,22,18
